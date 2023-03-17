@@ -6,9 +6,9 @@ const Main = () => (
       src="/img/logo.svg"
       alt="imagem de um átomo, simbolizando o Logotipo do Curso e ao lado escrito React Avançado"
     />
-    <S.Title>React Avançado</S.Title>
+    <S.Title>Boilerplate NextJS</S.Title>
     <S.Descrioption>
-      Typescript, ReactJS, NExtJS and Styled Components
+      Typescript, ReactJS, NextJS, Styled Components and Jest for Testing
     </S.Descrioption>
     <S.Illustration
       src="/img/hero-illustration.svg"
