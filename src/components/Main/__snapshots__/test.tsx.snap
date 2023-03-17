@@ -55,12 +55,12 @@ exports[`<Main/> should render the reheading 1`] = `
   <h1
     class="c2"
   >
-    React Avançado
+    Boilerplate NextJS
   </h1>
   <h2
     class="c3"
   >
-    Typescript, ReactJS, NExtJS and Styled Components
+    Typescript, ReactJS, NextJS, Styled Components and Jest for Testing
   </h2>
   <img
     alt="imagem de um desenvolvedor de frente para o computador"
